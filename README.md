@@ -1,2 +1,2 @@
 # ML-overview
-An overview of the basic ML algorithms and their use cases via Scikit-Learn package in Python
+Check out the notebook "Machine_Learning_Overview.ipynb".
